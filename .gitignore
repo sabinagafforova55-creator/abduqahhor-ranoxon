@@ -1,0 +1,15 @@
+.next/
+node_modules/
+
+*.log
+.env*
+
+einvitation.html
+remote-page.html
+themoments.html
+remote-index.css
+remote-index.js
+HomePage-actual.css
+HomePage-actual.js
+HomePage-source.css
+HomePage-source.js
