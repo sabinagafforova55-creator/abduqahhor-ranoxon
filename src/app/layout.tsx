@@ -2,11 +2,11 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Abduqahhor & Ranoxon - To'y taklifnomasi",
+  title: "Javohir & Muslimaxon - To'y taklifnomasi",
   description:
-    "Siz hurmatli mehmonimiz sifatida Ikromiddin va Muxsinaxonning nikoh to'yiga taklif etilasiz.",
+    "Siz hurmatli mehmonimiz sifatida Javohir va Muslimaxonning nikoh to'yiga taklif etilasiz.",
   openGraph: {
-    title: "Abduqahhor & Ranoxon - To'y taklifnomasi",
+    title: "Javohir & Muslimaxon - To'y taklifnomasi",
     description:
       "2026-10-31 kuni, soat 16:00da Vodiy to'yxonasida kutib olamiz.",
     type: "website",
